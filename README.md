@@ -50,13 +50,13 @@ O acompanhamento da evolução durante a disciplina
 A consulta às implementações de diferentes estruturas e algoritmos
 A prática de conceitos fundamentais de programação
 
-🎓 Informações acadêmicas
+## 🎓 Informações acadêmicas
 Curso	Engenharia de Software
 Disciplina	Estrutura de Dados 1
 Instituição	Universidade Tecnológica Federal do Paraná (UTFPR)
 Campus	Cornélio Procópio (CP)
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Prof. Me. Monique Emídio de Oliveira
 Linkedin: https://br.linkedin.com/in/monique-em%C3%ADdio-de-oliveira-4b6507138
 Currículo Lattes: http://lattes.cnpq.br/4156459717528691
