@@ -8,7 +8,7 @@ A disciplina aborda conceitos fundamentais de estruturas de dados e sua aplicaç
 
 Este repositório reúne os materiais práticos desenvolvidos durante as aulas, incluindo os slides utilizados, servindo como registro dos estudos e como material de consulta.
 
-## Conteúdos
+##Conteúdos
 
 Entre os principais conteúdos trabalhados estão:
 
@@ -26,7 +26,7 @@ Entre os principais conteúdos trabalhados estão:
 
 > O conteúdo pode variar conforme o andamento da disciplina e as atividades propostas.
 
-## Tecnologias
+##Tecnologias
 
 As implementações presentes neste repositório utilizam principalmente:
 
