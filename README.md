@@ -50,13 +50,19 @@ O acompanhamento da evolução durante a disciplina
 A consulta às implementações de diferentes estruturas e algoritmos
 A prática de conceitos fundamentais de programação
 
-## 🎓 Informações acadêmicas
-Curso	Engenharia de Software
-Disciplina	Estrutura de Dados 1
-Instituição	Universidade Tecnológica Federal do Paraná (UTFPR)
-Campus	Cornélio Procópio (CP)
-
-## 👨‍💻 Autor
+👨‍💻 Autoria
 Prof. Me. Monique Emídio de Oliveira
-Linkedin: https://br.linkedin.com/in/monique-em%C3%ADdio-de-oliveira-4b6507138
-Currículo Lattes: http://lattes.cnpq.br/4156459717528691
+
+<p align="left"> <a href="https://br.linkedin.com/in/monique-em%C3%ADdio-de-oliveira-4b6507138"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="http://lattes.cnpq.br/4156459717528691"> <img src="https://img.shields.io/badge/Currículo%20Lattes-Acessar-1B5E20?style=for-the-badge" alt="Currículo Lattes"> </a> </p>
+
+🎓 Informações Acadêmicas
+
+🏛️ Instituição
+UTFPR — Campus Cornélio Procópio
+📌 Disciplina: Estrutura de Dados 1
+🎓 Curso: Engenharia de Software
+
+<div align="center">
+UTFPR — Campus Cornélio Procópio
+
+</div>
