@@ -44,11 +44,11 @@ A estrutura pode ser atualizada conforme novos conteúdos e exercícios forem ad
 🎯 Objetivo
 O objetivo deste repositório é centralizar as implementações realizadas durante a disciplina, facilitando:
 
-A organização dos exercícios
-A revisão dos conteúdos
-O acompanhamento da evolução durante a disciplina
-A consulta às implementações de diferentes estruturas e algoritmos
-A prática de conceitos fundamentais de programação
+- A organização dos exercícios
+- A revisão dos conteúdos
+- O acompanhamento da evolução durante a disciplina
+- A consulta às implementações de diferentes estruturas e algoritmos
+- A prática de conceitos fundamentais de programação
 
 👨‍💻 Autoria
 Prof. Me. Monique Emídio de Oliveira
